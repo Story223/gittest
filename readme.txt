@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 Try new git merge --no-ff.
 Git is a free software.
 Changing...
-
+(change from test2) 
